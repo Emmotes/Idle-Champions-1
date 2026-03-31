@@ -3,12 +3,12 @@
     "Version": "v0.0.2",
     "Includes": "IC_AutoProgress_Component.ahk",
     "Author": "Ismo/Pneumatus",
-    "Url": "https://github.com/Pneumatus/IC-Addons/tree/main/IC_AutoProgress_Extra",
+    "Url": "https://github.com/Emmotes/Idle-Champions-1/tree/main/AddOns/IC_AutoProgress",
     "Info": "Keeps auto-progress enabled",
     "Dependencies": [
         {
-            "Name":"IC Core",
-            "Version":"v0.1.0"
+            "Name": "IC Core",
+            "Version": "v0.1.0"
         }
     ]
 }

@@ -3,12 +3,12 @@
     "Version": "v0.0.2",
     "Includes": "IC_AreaSwapper_Component.ahk",
     "Author": "Ismo/Pneumatus",
-    "Url": "https://github.com/Pneumatus/IC-Addons/tree/main/IC_AreaSwapper_Extra",
+    "Url": "https://github.com/Emmotes/Idle-Champions-1/tree/main/AddOns/IC_AreaSwapper",
     "Info": "Swaps back/forward between two areas on a timer",
     "Dependencies": [
         {
-            "Name":"IC Core",
-            "Version":"v0.1.0"
+            "Name": "IC Core",
+            "Version": "v0.1.0"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-	"Name":"No Modron Adventuring",
-	"Version": "v0.0.8",
-    "Includes" : "IC_NoModronAdventuring_Component.ahk",
-    "Author" : "mikebaldi1980 & Antilectual & Emmote",
-    "Url" : "https://github.com/Emmotes/IC_Addons/tree/main/IC_Addons/IC_NoModronAdventuring_Extra",
-    "Info" : "An add on that will level and specialize champions, cast ultimates, and restart adventures without Modron Automation.",
-    "Dependencies" : [
+    "Name": "No Modron Adventuring",
+    "Version": "v0.0.8",
+    "Includes": "IC_NoModronAdventuring_Component.ahk",
+    "Author": "mikebaldi1980 & Antilectual & Emmote",
+    "Url": "https://github.com/Emmotes/Idle-Champions-1/tree/main/AddOns/IC_NoModronAdventuring",
+    "Info": "An add on that will level and specialize champions, cast ultimates, and restart adventures without Modron Automation.",
+    "Dependencies": [
         {
-            "Name":"IC Core",
-            "Version":"v0.1.0"
+            "Name": "IC Core",
+            "Version": "v0.1.0"
         }
     ]
 }

@@ -3,7 +3,7 @@
     "Version": "v0.1.0",
     "Includes": "IC_BrivGemFarm_CloseWelcomeBack_Component.ahk",
     "Author": "Ismo/Pneumatus",
-    "Url": "https://github.com/Pneumatus/IC-Addons/tree/main/IC_BrivGemFarm_CloseWelcomeBack_Extra",
+    "Url": "https://github.com/Emmotes/Idle-Champions-1/tree/main/AddOns/IC_BrivGemFarm_CloseWelcomeBack",
     "Info": "Closes the Welcome Back screen",
     "Dependencies": [
         {
