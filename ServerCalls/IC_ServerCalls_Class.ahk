@@ -28,11 +28,8 @@ class IC_ServerCalls_Class extends SH_ServerCalls
     dummyData := ""
     webRoot := ""
     timeoutVal := 60000
-    playServerExcludes := "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,26"
     settings := ""
-    initMaxRetries := 2
     playServerRegex := "^https?://ps\d+\.idlechampions.com/~idledragons/"
-    
 
     __New( userID := 0, userHash := 0, instanceID := 0)
     {
