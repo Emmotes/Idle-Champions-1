@@ -290,7 +290,7 @@ Class IC_BrivGemFarm_LevelUp_Component
         settings.ForceBrivEllywick := True
         settings.SkipMinDashWait := false
         settings.MaxSimultaneousInputs := 1
-        settings.MinLevelInputDelay := 40
+        settings.MinLevelInputDelay := 0
         settings.MinLevelTimeout := 10000
         settings.FavoriteFormationZ1 := "Q"
         settings.LowFavorMode := false
@@ -300,11 +300,11 @@ Class IC_BrivGemFarm_LevelUp_Component
         settings.BrivMinLevelStacking := 1300
         settings.BrivMinLevelStackingOnline := 1300
         settings.BrivMinLevelArea := 1
-        settings.BrivThelloraCombineBossCheck := true
+        settings.BrivThelloraCombineBossCheck := false
         settings.BrivLevelingZones := 1125899906842623
         settings.DefaultMinLevel := 0
         settings.DefaultMaxLevel := 1
-        settings.LevelToSoftCapFailedConversion := true
+        settings.LevelToSoftCapFailedConversion := false
         settings.LevelToSoftCapFailedConversionBriv := false
         settings.DefinitionsLanguage := 1
         minLevels := {}, maxLevels := {}
@@ -313,15 +313,15 @@ Class IC_BrivGemFarm_LevelUp_Component
         minLevels[ 58] := 200, maxLevels[ 58] := 1300 ; Briv
         minLevels[ 47] := 200, maxLevels[ 47] :=  200 ; Shandie
         minLevels[ 91] := 300, maxLevels[ 91] :=  310 ; Widdle
-        minLevels[128] := 100, maxLevels[128] :=  200 ; Lae'Zel
-        minLevels[ 28] := 100, maxLevels[ 28] :=  200 ; Deekin
+        minLevels[128] := 200, maxLevels[128] :=  200 ; Lae'Zel
+        minLevels[ 28] := 200, maxLevels[ 28] :=  200 ; Deekin
         minLevels[ 75] := 200, maxLevels[ 75] :=  225 ; Hew Maan
-        minLevels[102] := 100, maxLevels[102] :=  300 ; Nahara
+        minLevels[102] := 300, maxLevels[102] :=  300 ; Nahara
         minLevels[125] := 400, maxLevels[125] :=  400 ; BBEG
-        minLevels[145] :=   0, maxLevels[145] :=  100 ; Dynaheir
+        minLevels[145] := 100, maxLevels[145] :=  100 ; Dynaheir
         minLevels[ 52] := 100, maxLevels[ 52] :=  100 ; Sentry
         minLevels[ 59] := 100, maxLevels[ 59] :=  100 ; Melf
-        minLevels[148] := 100, maxLevels[148] :=  200 ; Diana
+        minLevels[148] := 200, maxLevels[148] :=  200 ; Diana
         minLevels[139] :=   1, maxLevels[139] :=    1 ; Thellora
         minLevels[ 97] := 100, maxLevels[ 97] :=  100 ; Tatyana
         ; Other
