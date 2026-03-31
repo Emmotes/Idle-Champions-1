@@ -25,7 +25,7 @@ ReloadBrivGemFarmSettings(loadFromFile := True)
     if (g_BrivUserSettings[ "TargetStacks" ] == "")
         g_BrivUserSettings[ "TargetStacks" ] := 0
     if ( g_BrivUserSettings[ "RestartStackTime" ] == "" )
-        g_BrivUserSettings[ "RestartStackTime" ] := 12000
+        g_BrivUserSettings[ "RestartStackTime" ] := 6000
     if ( g_BrivUserSettings[ "BuyChests" ] == "" )
         g_BrivUserSettings[ "BuyChests" ] := 1
     if ( g_BrivUserSettings[ "OpenChests" ] == "" )
